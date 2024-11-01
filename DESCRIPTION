@@ -26,7 +26,7 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-10-31 20:11:22 UTC; msperlin
+Packaged: 2024-11-01 19:14:24 UTC; msperlin
 Author: Marcelo Perlin [aut, cre],
   Nic Crane [rev] (Nic reviewed the package (v. 0.0.5) for rOpenSci, see
     <https://github.com/ropensci/software-review/issues/523>),
